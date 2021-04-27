@@ -1,4 +1,5 @@
 # AngularTourOfHeroes
+[Angular ツアー・オブ・ヒーローズ チュートリアル](https://angular.jp/tutorial)のチュートリアル内で実装したソースコードです。
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
 
